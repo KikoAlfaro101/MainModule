@@ -1,6 +1,0 @@
-[submodule "GraphicsSubModule"]
-	path = GraphicsSubModule
-	url = https://github.com/KikoAlfaro101/GraphicsSubModule.git
-[submodule "Assets/Audio"]
-	path = Assets/Audio
-	url = https://github.com/KikoAlfaro101/AudioSubModule.git
