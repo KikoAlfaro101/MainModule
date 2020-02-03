@@ -1,0 +1,3 @@
+[submodule "GraphicsSubModule"]
+	path = GraphicsSubModule
+	url = https://github.com/KikoAlfaro101/GraphicsSubModule.git
